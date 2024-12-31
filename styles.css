@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #17421A;
+    text-align: left;
+    color: #F0BE6D;
+    padding: 25px;
+  }
+  
+  button {
+    cursor: pointer;
+    background-color: #AA2704;
+    border: 3px solid #F0BE6D;
+    color: #F0BE6D;
+  }
+  
+  input {
+    background-color: #AA2704;
+    color: #F0BE6D;
+    border: 1px solid #F0BE6D;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
